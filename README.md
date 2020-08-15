@@ -1,6 +1,6 @@
 # RockPaperScissors
  
-A simple Rock-Paper-Scissors game made with libGDX and Kryonet. Also, inspired from RPSNet project on the GitHub to create network communications in project. 
+A simple Rock-Paper-Scissors game made with libGDX and Kryonet. Also, inspired from RPSNet project on GitHub to create network communications in project. 
 
 Any graphics are not licensed and are not used for any commercial purposes. This project developed only for self-education and enthusiasm.
 
