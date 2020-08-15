@@ -12,8 +12,8 @@ import java.util.Map;
 
 public class NetworkHandler {
 
-    public static final int PORT = 25565;
-    public static final String IPADDRESS = "46.1.17.34";
+    public static final int PORT = 80; //your port number
+    public static final String IPADDRESS = "xxx"; //your public ip address
 
     public static void register(EndPoint endPoint) {
 
