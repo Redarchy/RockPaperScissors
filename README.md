@@ -18,3 +18,9 @@ Some details about the game's network structure must be explained as;
   
 
 Thanks for attention.
+
+# Some Screenshots 
+
+https://drive.google.com/file/d/1LG7x1yOZD9clOasv8LrSdS_l6TLzoUoc/view?usp=sharing
+https://drive.google.com/file/d/1LAdt_aD9AzZ9KEFE4c1VZtVL_FZcVSmW/view?usp=sharing
+https://drive.google.com/file/d/1L9e4X9j9UE5EA6bnmfhc9oEjN--f7KqD/view?usp=sharing
